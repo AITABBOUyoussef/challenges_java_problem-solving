@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_challenges_problem-solving.iml" filepath="$PROJECT_DIR$/.idea/Java_challenges_problem-solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SF_Electrique/SF_Electrique.iml" filepath="$PROJECT_DIR$/SF_Electrique/SF_Electrique.iml" />
+    </modules>
+  </component>
+</project>
